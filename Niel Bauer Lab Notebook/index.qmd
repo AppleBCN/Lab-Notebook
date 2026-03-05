@@ -4,4 +4,10 @@ title: "Niel Bauer Lab Notebook"
 
 This is a repository for laboratory methods used throughout my PhD.
 
-## [Project 1](about.qmd)
+# Recent Experiments
+
+## [RNA Extraction Training](RNA_extraction_practice.qmd)
+
+# Standard protocols
+
+[Tri-Reagen/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
