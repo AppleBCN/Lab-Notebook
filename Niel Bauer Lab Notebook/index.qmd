@@ -1,0 +1,7 @@
+---
+title: "Niel Bauer Lab Notebook"
+---
+
+This is a repository for laboratory methods used throughout my PhD.
+
+## [Project 1](about.qmd)
