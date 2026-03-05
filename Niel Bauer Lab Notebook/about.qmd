@@ -1,7 +1,0 @@
----
-title: "Project 1"
----
-
-## Summary
-Methods used for Project 1
-
