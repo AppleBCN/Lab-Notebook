@@ -4,7 +4,7 @@ title: "RNA Extraction Training"
 
 ## Summary
 
-Methods used for Practicing RNA extractions on 2/23/2026. Followed the [Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd) protocol with some modifications. This protocol has been copied here with the modifications added.
+Methods used for Practicing RNA extractions on 2/23/2026. Followed the [Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd) protocol with some modifications. This protocol has been copied here and has been **modified to include a Proteinase K digestion prior to Phase extraction**
 
 # Samples Isolated
 
