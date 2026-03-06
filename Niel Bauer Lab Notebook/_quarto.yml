@@ -7,7 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Experiments.qmd
+      - href: Experiments.qmd
+        text: Experiments
 
 format:
   html:
