@@ -1,5 +1,8 @@
 ---
 title: "Turkey DNA extraction"
+format:
+    html: default
+    pdf: default
 ---
 
 Protocol for use of Zymo Research [Quick-DNA Miniprep plus kit](https://files.zymoresearch.com/protocols/_d4068_d4069_quick-dna_miniprep_plus_kit.pdf) for extracting DNA from Nucleated Turkey Blood samples. 
@@ -46,3 +49,7 @@ Protocol for use of Zymo Research [Quick-DNA Miniprep plus kit](https://files.zy
 -   [ ] Add 700uL **g-DNA Wash Buffer** to the sping column. Centrifuge at >=12,000xg for 1 minute. Empty the Collection tube.
 -   [ ] Add 200uL **g-DNA Wash Buffer** to the spin column directly on the matrix. Centrifuge at >=12,000xg for 1 minute. Discard the collection tube and flow through. 
 -   [ ] Transfer the spin column to a fresh DNase-free 1.7uL microfuge tube. Add 50uL **DNA Elution Buffer** or Nuclease-Free water directly on the matrix. Incubate for 5 minutes at room temperature, the centrifuge at top speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at <=-20C for future use.
+
+## Protocol Notes
+
+-   If using a sample input of \<50uL for the lysed sample protocol, increase volume to 50uL using DNA Elution Buffer or an isotonic buffer like PBS before continuing.
